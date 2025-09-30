@@ -17,6 +17,8 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## PROGRAM:
+
+
 ### Name: Deekshitha K
 ### Register Number: 2305002005
 ```python
@@ -93,8 +95,10 @@ plt.show()
 
 ## OUTPUT:
 
+
 ### True Stock Price, Predicted Stock Price vs time:
 <img width="751" height="500" alt="image" src="https://github.com/user-attachments/assets/d0dee76f-e157-4cdc-906c-c4107c01a59c" />
+
 
 
 
